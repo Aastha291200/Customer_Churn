@@ -22,7 +22,7 @@ To run this notebook locally:
 https://github.com/Aastha291200/Customer_Churn
 
 2. Install required Python packages:
-3. 3. Run the Jupyter notebook:
+3. Run the Jupyter notebook:
 
 ## Contributions
 Contributions to improve the analysis or predictive models are welcome. Please fork this repository and submit a pull request with your improvements.
