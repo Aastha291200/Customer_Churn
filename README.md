@@ -19,7 +19,7 @@ This repository hosts a Jupyter notebook focused on analyzing customer churn for
 ## Setup
 To run this notebook locally:
 1. Clone the repository:
-https://github.com/Aastha291200/Customer_Churn
+(https://github.com/AasthaKshatriya/Customer_Churn)
 
 2. Install required Python packages:
 3. Run the Jupyter notebook:
